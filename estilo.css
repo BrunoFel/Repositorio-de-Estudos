@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS do Sumário */
+
+body {
+    background-image: linear-gradient(to right, #9aafdb, #81a3e6);
+   
+}
+
+#main {
+    background-color: rgb(219, 231, 248);
+    width: 90%;
+    padding: 15px;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px #17397e;  
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:active {
+    color: green;
+}
+
+
+
+
+
